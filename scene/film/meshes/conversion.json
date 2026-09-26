@@ -1,0 +1,41 @@
+[
+ {
+  "src": "NXP-HGD-CF.dae",
+  "out": "NXP-HGD-CF.glb",
+  "geometries": 9,
+  "vertices": 402553,
+  "faces": 179000,
+  "span_m": [
+   0.3957,
+   0.396,
+   0.279
+  ],
+  "bytes": 12053868
+ },
+ {
+  "src": "5010Base.dae",
+  "out": "5010Base.glb",
+  "geometries": 1,
+  "vertices": 2916,
+  "faces": 3776,
+  "span_m": [
+   0.0286,
+   0.0286,
+   0.018
+  ],
+  "bytes": 104932
+ },
+ {
+  "src": "5010Bell.dae",
+  "out": "5010Bell.glb",
+  "geometries": 2,
+  "vertices": 3788,
+  "faces": 3918,
+  "span_m": [
+   0.059,
+   0.059,
+   0.021
+  ],
+  "bytes": 124372
+ }
+]
