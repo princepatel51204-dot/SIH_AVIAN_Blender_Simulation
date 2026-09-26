@@ -6,10 +6,16 @@ This repository is the **Blender side** of the project: the modelled bridge with
 
 ## Watch
 
-| | |
-|---|---|
-| **Inspection + detection film** (82.6 s) | [`AVIAN_Inspection_Film.mp4`](AVIAN_Inspection_Film.mp4) (in this repo; GitHub plays it inline) · [Google Drive](https://drive.google.com/file/d/1JEOL6fjqovZchbOK0rHiGIVGq6CAX5SJ/view?usp=drive_link) |
-| **Environment walkthrough** (47.9 s) | [`media/bridge_defect_walkthrough_cinematic.mp4`](media/bridge_defect_walkthrough_cinematic.mp4) · [Google Drive](https://drive.google.com/file/d/1irq2_L2NseZZHnmWRftRGNXPAeEZk6e7/view?usp=drive_link) |
+[![Looping preview of the film: establishing shot, then detections on beats 1, 4 and 8](images/preview.gif)](https://drive.google.com/file/d/1JEOL6fjqovZchbOK0rHiGIVGq6CAX5SJ/view?usp=drive_link)
+
+<sub>Looping 9 s preview cut from the finished film (click to open the full film on Google Drive).</sub>
+
+| | Watch online | File in this repo |
+|---|---|---|
+| **Inspection + detection film** (82.6 s, 1920×1080) | [Google Drive](https://drive.google.com/file/d/1JEOL6fjqovZchbOK0rHiGIVGq6CAX5SJ/view?usp=drive_link) | [`AVIAN_Inspection_Film.mp4`](AVIAN_Inspection_Film.mp4) |
+| **Environment walkthrough** (47.9 s) | [Google Drive](https://drive.google.com/file/d/1irq2_L2NseZZHnmWRftRGNXPAeEZk6e7/view?usp=drive_link) | [`media/bridge_defect_walkthrough_cinematic.mp4`](media/bridge_defect_walkthrough_cinematic.mp4) |
+
+**GitHub does not play these mp4 files in the browser** (it says the files are too big to show, and serves the raw file as a download). To watch, use the Google Drive links, or download the file from this repo and play it locally.
 
 The two Drive pages were opened and their titles read: the first link is `avian_inspection_film.mp4` and the second is `bridge_defect_walkthrough_cinematic.mp4`. The contents of the Drive files were not downloaded, so they are labelled from their titles only.
 
